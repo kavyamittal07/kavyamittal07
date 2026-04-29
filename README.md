@@ -5,14 +5,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0ABAB5&center=true&vCenter=true&lines=Frontend+Developer;React+%26+Next.js;Building+Scalable+Web+Apps;Focused+on+UI%2FUX+%26+Performance" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kavyamittal07&label=Profile+Views&color=0ABAB5&style=flat" />
+</p>
+
 ---
+
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 👩‍💻 About Me
 - 🎓 MCA @ Chandigarh University  
-- 💻 Frontend Developer passionate about **modern UI & scalable apps**  
-- ⚡ I build **responsive, fast & user-friendly web applications**  
-- 🎯 Focus: **Performance, Clean Code & UI/UX**  
-- 🌱 Currently learning **Advanced React, Next.js & Optimization**  
+- 💻 Frontend Developer (React.js & Next.js)  
+- ⚡ I build **responsive, fast & scalable web apps**  
+- 🎯 Focus: **UI/UX, Performance & Clean Code**  
+- 🌱 Learning **Advanced React & Optimization**  
 - 📫 **work.kavyamittal@gmail.com**
 
 ---
@@ -25,10 +31,10 @@
 ---
 
 ### 🚀 Featured Projects
-- 🛒 **MyStore E-commerce App** → API Integration, Cart, Filters  
-- 🍔 **Burger Point App** → Dynamic UI & Real-time Updates  
-- 🧮 **Web Calculator** → JavaScript Logic + DOM  
-- 📝 **Form Validation** → Real-time UX Feedback  
+- 🛒 **MyStore E-commerce App** → API, Cart, Filters  
+- 🍔 **Burger Point App** → Dynamic UI & State  
+- 🧮 **Web Calculator** → JS Logic + DOM  
+- 📝 **Form Validation** → Real-time UX  
 
 ---
 
@@ -42,8 +48,8 @@
 
 ### 🧠 What I Bring
 - ✔️ Clean & Maintainable Code  
-- ✔️ Reusable & Scalable Components  
-- ✔️ UI/UX Focused Design Thinking  
+- ✔️ Reusable Components  
+- ✔️ UI/UX Focus  
 - ✔️ Performance Optimization  
 - ✔️ REST API Integration  
 
@@ -61,5 +67,5 @@
 
 ---
 
-<p align="center">✨ Building clean UI. Solving real problems. Growing every day. ✨</p>
+<p align="center">✨ Code. Design. Improve. Repeat. ✨</p>
 -->
