@@ -1,40 +1,34 @@
 <h1 align="center">Hi 👋, I'm Kavya Mittal</h1>
-<h3 align="center">🚀 Frontend Developer | React.js | Building Scalable UI</h3>
+<h3 align="center">Frontend Developer | React.js | Next.js | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;React.js+Specialist;UI+%2F+UX+Focused;Always+Learning+New+Tech" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kavyamittal07&label=Profile+Views&color=blue&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0ABAB5&center=true&vCenter=true&lines=Frontend+Developer;React+%26+Next.js;Building+Scalable+Web+Apps;Focused+on+UI%2FUX+%26+Performance" />
 </p>
 
 ---
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 ### 👩‍💻 About Me
 - 🎓 MCA @ Chandigarh University  
-- 💻 Frontend Developer (React.js)  
-- ⚡ I build **responsive & scalable web apps**  
-- 🎯 Focus: **Performance | Clean Code | UI/UX**  
-- 🌱 Currently learning **Advanced React, APIs, Optimization**  
+- 💻 Frontend Developer passionate about **modern UI & scalable apps**  
+- ⚡ I build **responsive, fast & user-friendly web applications**  
+- 🎯 Focus: **Performance, Clean Code & UI/UX**  
+- 🌱 Currently learning **Advanced React, Next.js & Optimization**  
 - 📫 **work.kavyamittal@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,vue,html,css,tailwind,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,tailwind,git,github,vscode,figma" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
-- 🛒 **MyStore E-commerce App** → Cart, Filters, API Integration  
-- 🍔 **Burger Point App** → Dynamic UI, Real-time Pricing  
-- 🧮 **Web Calculator** → JS Logic + DOM  
-- 📝 **Form Validation** → Real-time Error Handling  
+- 🛒 **MyStore E-commerce App** → API Integration, Cart, Filters  
+- 🍔 **Burger Point App** → Dynamic UI & Real-time Updates  
+- 🧮 **Web Calculator** → JavaScript Logic + DOM  
+- 📝 **Form Validation** → Real-time UX Feedback  
 
 ---
 
@@ -48,7 +42,8 @@
 
 ### 🧠 What I Bring
 - ✔️ Clean & Maintainable Code  
-- ✔️ Reusable Components  
+- ✔️ Reusable & Scalable Components  
+- ✔️ UI/UX Focused Design Thinking  
 - ✔️ Performance Optimization  
 - ✔️ REST API Integration  
 
@@ -66,5 +61,5 @@
 
 ---
 
-<p align="center">✨ “Code. Learn. Build. Repeat.” ✨</p>
+<p align="center">✨ Building clean UI. Solving real problems. Growing every day. ✨</p>
 -->
